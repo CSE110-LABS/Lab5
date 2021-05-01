@@ -1,7 +1,8 @@
 # CSE110 SP21 Lab 5
 
 ## Author(s):
-- YOUR NAME
+- Jacquelyn Co
+- Hana Kim
 
 ## Part 1:
 
