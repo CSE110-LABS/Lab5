@@ -10,4 +10,4 @@ LINK TO YOUR PUBLISHED SITE
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+https://github.com/j2c0/github-actions-for-ci/issues/7
